@@ -1,1 +1,2 @@
 This is the 1st text file in the intial stage.
+This is the added text for changing.
